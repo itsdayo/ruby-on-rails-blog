@@ -1,24 +1,11 @@
-# README
+# ruby-on-rails-blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Post a title of your blog along with text. This application was made using ruby on rails.
 
-Things you may want to cover:
+## to run application
+In the root directory run this command
 
-* Ruby version
+rails server
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
